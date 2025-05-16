@@ -1,3 +1,3 @@
 # CTA2Net
 
-Coming soon.
+Coming soon...
